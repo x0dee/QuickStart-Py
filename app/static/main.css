@@ -74,8 +74,9 @@ li {
 /* Incomplete task style */
 li.incomplete {
     background-color: #fffbea;
-    border: 1px solid #ffcc00;
+    border: 1px solid #4c93f5;
 }
+
 
 /* Completed task style */
 li.completed {
@@ -86,7 +87,7 @@ li.completed {
 }
 
 .mark-complete {
-    color: #ffcc00;
+    color: #4c93f5;
     font-weight: bold;
     text-decoration: none;
 }
